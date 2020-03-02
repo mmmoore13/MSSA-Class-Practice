@@ -1,0 +1,1 @@
+The purpose of this application is to practice inheritance in C#.
