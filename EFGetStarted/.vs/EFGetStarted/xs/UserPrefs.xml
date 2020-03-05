@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{7A7911FE-12AD-460C-974F-F4CDFD85C710}|Default">
+  <MonoDevelop.Ide.ItemProperties.EFGetStarted PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Model.cs" Line="32" Column="2" />
+      <File FileName="Migrations/BloggingContextModelSnapshot.cs" Line="1" Column="1" />
+      <File FileName="Migrations/20200305144402_InitialCreate.Designer.cs" Line="1" Column="1" />
+      <File FileName="Migrations/20200305144402_InitialCreate.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="41" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EFGetStarted" expanded="True">
+            <Node name="EFGetStarted" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
